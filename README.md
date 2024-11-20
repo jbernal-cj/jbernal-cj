@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Jorge Bernal
+- 👀 I’m interested in automation, business processes, and technology integration.
+- 🌱 I’m currently working on automating functions at CJ Capital FO to improve efficiency.
+- 💞️ I’m looking to collaborate on projects related to automation, software development, and business innovation.
+- 📫 How to reach me: jbernal@cjcapitalfo.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m passionate about optimizing workflows and finding creative tech solutions.
